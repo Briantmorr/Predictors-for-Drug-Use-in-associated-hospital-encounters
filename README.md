@@ -51,8 +51,8 @@ The NHCS collects data on patient care in hospital-based settings to offer insig
 
 ## Getting Started
 1. Clone this repository.
-2. Install the required Python packages.
-3. Navigate to the `notebooks/` directory and open the desired Jupyter Notebook.
+2. run `jupyter notebook`
+3. Navigate to the `notebooks/` directory and open the project notebook.
 4. Follow the instructions in the notebook to run the analysis.
 
 ## Tools and Technologies
