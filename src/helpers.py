@@ -5,7 +5,7 @@ import numpy as np
 
 def multivariant_analysis(df, hue, type):
     int_vars = df.select_dtypes(include = ['int','float'])
-    fig, axs = plt.subplots(nrows=7, ncols=3, figsize=(15,15))
+    fig, axs = plt.subplots(nrows=3, ncols=2, figsize=(15,15))
     axs = axs.flatten()
 
     for i, var in enumerate (int_vars):
