@@ -61,7 +61,7 @@ The NHCS collects data on patient care in hospital-based settings to offer insig
 - Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
 
 ## Contributors
-Brian Morris, Will Kencel, Mhret Gebremariam
+Brian Morris, Will Kencel
 
 ## License
 This project is licensed under the MIT License.
